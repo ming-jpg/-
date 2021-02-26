@@ -12,6 +12,7 @@ ming-jpg 对任何仓库中包含的脚本的问题概不负责，包括但不�
 ### 自用配置
 1.[毒奶](https://raw.githubusercontent.com/limbopro/Profiles4limbo/main/full.conf)优点：稳啊,毒奶自家有一个去广告的计划,对于重度去广告的人来说算是福音了.
 大家也可以加毒奶的电报群进行反馈[TG群](https://t.me/Adblock4limbo)
+
 2.surge: 神机配置[地址](https://github.com/DivineEngine/Profiles/tree/master)
 ### surge模块推荐
 [YouTubeAD](https://raw.githubusercontent.com/Choler/Surge/master/Module/youtube.sgmodule)
