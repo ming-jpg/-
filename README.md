@@ -7,6 +7,7 @@ ming-jpg 对任何仓库中包含的脚本的问题概不负责，包括但不�
 任何以任何方式查看此项目的人或直接或间接使用该项目的任何脚本的用户都应仔细阅读此声明.ming-jpg保留随时更改或补充此免责声明的权利.一旦使用并复制了任何相关脚本或脚本项目的规则,则考虑您已接受此免责声明.本仓库只是心血来潮,发布surge自用配置,模块.与quanx脚本自用
 ### 新手教程
 1.surge新手村新手你先看教程:[Hell Cell](https://youtu.be/YwVZxtFFSpM),[大飞](https://youtu.be/V-p0PIC4un4)
+
 2.quanx新手村新手你先看教程:[s大](https://www.notion.so/kopshawn/Quantumult-X-1d32ddc6e61c4892ad2ec5ea47f00917)
 ### 自用配置
 1.[毒奶](https://raw.githubusercontent.com/limbopro/Profiles4limbo/main/full.conf)优点：稳啊,毒奶自家有一个去广告的计划,对于重度去广告的人来说算是福音了.
